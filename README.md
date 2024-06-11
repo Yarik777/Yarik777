@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yarik777
+- 👋 Hi, I’m @Yarik
 - 👀 I am interested in programming in different languages and I am also interested in sports
 - 🌱 I am currently studying at the University of Telecommunications, majoring in 121 Software Engineering
 - 💞️ I want to work with the best programming specialists
